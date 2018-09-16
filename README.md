@@ -6,3 +6,6 @@ PyTorch implementation of [HyperNetworks](https://arxiv.org/abs/1609.09106) (Ha 
 ```commandline
 python train.py
 ```
+
+## Working
+
