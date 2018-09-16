@@ -9,3 +9,4 @@ python train.py
 
 ## Working
 
+![model_diagram](https://raw.githubusercontent.com/g1910/HyperNetworks/diagrams/forward_backward_pass.png)
