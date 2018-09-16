@@ -9,4 +9,8 @@ python train.py
 
 ## Working
 
-![model_diagram](https://raw.githubusercontent.com/g1910/HyperNetworks/diagrams/forward_backward_pass.png)
+![model_diagram](https://raw.githubusercontent.com/g1910/HyperNetworks/master/diagrams/model_diagram.png)
+
+![model_diagram_simplified](https://raw.githubusercontent.com/g1910/HyperNetworks/master/diagrams/model_simplified.png)
+
+![forward_backward_pass](https://raw.githubusercontent.com/g1910/HyperNetworks/master/diagrams/forward_backward_pass.png)
