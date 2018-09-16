@@ -1,6 +1,8 @@
 # HyperNetworks
 PyTorch implementation of [HyperNetworks](https://arxiv.org/abs/1609.09106) (Ha et al., ICLR 2017) for CIFAR-10 dataset.
 
+(Please cite this repository if you use any of the code/diagrams here, Thanks! 😊😊)
+
 ## How to Run
 
 ```commandline
