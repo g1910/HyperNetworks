@@ -3,7 +3,7 @@ PyTorch implementation of [HyperNetworks](https://arxiv.org/abs/1609.09106) (Ha 
 
 (Please cite this repository if you use any of the code/diagrams here, Thanks! 😊😊)
 
-Please use the following BibTeX entry:
+To cite, please use the following BibTeX entry:
 
 ```
 @article{gaurav2018hypernetsgithub,
